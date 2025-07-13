@@ -9,7 +9,7 @@
 
 - 🔧 Fullstack developer skilled in **React, Redux, Node.js, MongoDB**
 - 🔐 Auth, Payments, Cloud Uploads – built using **JWT, Razorpay, Cloudinary**
-- 🧠 Codeforces **Specialist** – currently working on mastering Div2E/F
+- 🧠 Codeforces **Specialist** – currently working on mastering Div2D/E
 - 📈 Actively learning: **Next.js, PostgreSQL, Docker**
 
 ---
