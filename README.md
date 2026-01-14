@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Kartev 👋</h1>
+<h1 align="center">Hello, I'm Kartev 👋</h1>
 <p align="center">
-  Codeforces Specialist | MERN Stack Developer | Problem Solver
+  Codeforces Expert | MERN Stack Developer | Problem Solver
 </p>
 
 ---
@@ -9,14 +9,14 @@
 
 - 🔧 Fullstack developer skilled in **React, Redux, Node.js, MongoDB**
 - 🔐 Auth, Payments, Cloud Uploads – built using **JWT, Razorpay, Cloudinary**
-- 🧠 Codeforces **Specialist** – currently working on mastering Div2D/E
+- 🧠 Codeforces **Expert** – currently working on more challenging topics
 - 📈 Actively learning: **Next.js, PostgreSQL, Docker**
 
 ---
 
 ### 🔧 Tech Stack
 
-![Stack](https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,js,html,css,tailwind,git,github)
+![Stack](https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,js,html,css,tailwind,git,github,typescript)
 
 ---
 
@@ -24,9 +24,10 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🔗 AlgoBridge](https://github.com/KartevSumit/AlgoBridge) | VS Code and Web Extension that brings Codeforces problem statement to your VS Code | JS, TS |
 | [📚 StudyNotion](https://github.com/KartevSumit/StudyNotion) | Full-featured edtech platform with auth, payments, dashboard & video player | MERN, JWT, Razorpay, Redux |
-| [🖼️ Vision-Text](https://github.com/KartevSumit/Vision-Text) | AI-powered visual storytelling using pre-extracted image features | Python, NLP, ML |
 | [🌐 EyHacks](https://github.com/KartevSumit/EyHacks) | Hackathon submission solving a real-world use-case | HTML, CSS, JS, Python |
+| [🖼️ Vision-Text](https://github.com/KartevSumit/Vision-Text) | AI-powered visual storytelling using pre-extracted image features | Python, NLP, ML |
 
 ---
 
